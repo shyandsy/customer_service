@@ -1,12 +1,5 @@
 package main
 
-import (
-	"customer_service/vendor/github.com/gorilla/websocket"
-	"flag"
-	"log"
-	"net/http"
-)
-
 /*
 编译运行：go build -mod=vendor
 */
